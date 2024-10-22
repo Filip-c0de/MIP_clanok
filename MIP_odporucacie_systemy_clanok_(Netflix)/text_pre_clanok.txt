@@ -1,0 +1,19 @@
+Vygenerovany Abstrak 
+
+V dnešnej dobe sú odporučacie systémy široko užívané a to dokonca aj vo zábavnom priemysle. Odporúčacie systémy sú kľúčovým prvkom v personalizácií obsahu na rôznych platformách, napr. streamovacie platformy ako Netflix. Ich hlavným cieľom je navrhnúť používateľom relevantný obsah na základe analýzy dát, čím zlepšujú používateľský zážitok a zvyšujú angažovanosť. Netflix využíva pokročilé algoritmy založené na strojovom učení, ktoré spracúvajú informácie, ako je história sledovania, hodnotenia a správanie používateľa na platforme. 
+
+ 
+
+ Medzi najčastejšie používané techniky patrí kolaboratívne filtrovanie, ktoré porovnáva používateľské vzorce medzi jednotlivcami s podobnými preferenciami, a obsahové filtrovanie, ktoré odporúča obsah na základe žánru, režisérov alebo hercov, ktoré užívateľ preferuje. Netflix taktiež zohľadňuje kontextové faktory, ako je čas dňa alebo zariadenie na  ktorom sa obsah sleduje, čo umožňuje prispôsobovať odporúčania pre rôzne situácie. 
+
+ 
+
+ Algoritmus sa neustále učí a optimalizuje svoje odporúčania pomocou údajov od miliárd používateľov. Tieto personalizované odporúčania zvyšujú šancu, že používateľ nájde zaujímavý obsah, čo následne vedie k väčšej spokojnosti a dlhšieho času stráveného na platforme. Algoritmy teda nielen podporujú individuálny zážitok, ale aj prispievajú k obchodnému úspechu týchto platforiem.
+
+Uvod:
+
+Hlavným cieľom odporúčacích systémov je navrhnúť používateľom relevantný obsah na základe analýzy dát, čím zlepšujú používateľský zážitok a zvyšujú angažovanosť. Netflix využíva pokročilé algoritmy založené na strojovom učení, ktoré spracúvajú informácie, ako je história sledovania, hodnotenia a správanie používateľa na platforme.
+
+Medzi najčastejšie používané techniky patrí kolaboratívne filtrovanie, ktoré porovnáva používateľské vzorce medzi jednotlivcami s podobnými preferenciami, a obsahové filtrovanie, ktoré odporúča obsah na základe žánru, režisérov alebo hercov, ktoré užívateľ preferuje. Netflix taktiež zohľadňuje kontextové faktory, ako je čas dňa alebo zariadenie na  ktorom sa obsah sleduje, čo umožňuje prispôsobovať odporúčania pre rôzne situácie. 
+
+Algoritmus sa neustále učí a optimalizuje svoje odporúčania pomocou údajov od miliárd používateľov. Tieto personalizované odporúčania zvyšujú šancu, že používateľ nájde zaujímavý obsah, čo následne vedie k väčšej spokojnosti a dlhšieho času stráveného na platforme. Algoritmy teda nielen podporujú individuálny zážitok, ale aj prispievajú k obchodnému úspechu týchto platforiem.
